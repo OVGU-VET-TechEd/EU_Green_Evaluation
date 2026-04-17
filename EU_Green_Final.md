@@ -1,17 +1,15 @@
 <!--
 author:   EU GREEN Project Team
 email:
-version:  1.0
+version:  1.1
 language: en
 narrator: US English Female
-comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning boards, notebook roadmap sketch, and EU GREEN work cards.
+comment:  Integrated EU GREEN project roadmap 2026 — compiled from whiteboard planning board (May–Dec), notebook Road Map 26 sketch, and EU GREEN programme cards (May–Aug & Sept–Dec).
 -->
 
 # 📅 EU GREEN Project Roadmap 2026 (May – December)
 
-> **Sources integrated:** Whiteboard planning board (May–Dec), Notebook *Road Map 26* sketch, EU GREEN programme cards (May–Aug & Sept–Dec work sheets).
->
-> Cross-cutting tracks: BIP/Microcredentials · Lobbying · Masterclasses · SDG Mapping · Multilingual/Multicultural Events · Train the Trainers · Joint Degrees · Reporting
+> **Sources:** (1) Whiteboard A: May–August planning board · (2) Whiteboard B: September–December planning board · (3) Notebook: *Road Map 26* Gantt sketch · (4) EU GREEN programme cards (two sheets)
 
 ---
 
@@ -23,27 +21,24 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 - Rectors meeting
 - CA (Cooperation Agreement) for administrative setup / submission
-- Organize the French Master Class
+- Organize the French session
 - Rectors / Faculty coordination
-- EU GREEN Digital Studio – participate and announcement of the choice
-- Dayton JEC Meeting (initial)
-- Implementation coordination / MINED
-- Election + Masterclass / Training assignments (name-based allocation)
+- EU GREEN Digital Studio – participate & announcement of the choice
 
 **Curriculum & Content**
 
-- Start mapping of SDG-related content in curricula
-- Masterclasses – initial phase
-- Multilingual & multicultural planning begins
+- Masterclasses – initial phase (M-Left)
+- Mapping of SDG-related content in curricula *(starts here, runs multi-month)*
+- Multilingual & multicultural events *(starts here, runs multi-month)*
 
 **Evaluation & Reporting**
 
 - Start minor report / evaluation design
 
-**Cross-cutting tracks starting:**
+**Cross-cutting tracks starting (from Road Map 26):**
 
-- 🔵 BIP / Microcredentials → *runs May–July*
-- 🔵 Lobbying → *runs May–July*
+- 🔵 BIP / Microcredentials → *May–July*
+- 🔵 Lobbying → *May–July*
 
 ---
 
@@ -54,34 +49,28 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 **Events & Dissemination**
 
 - Disseminate the Angers autumn schools to students
-- **Magdeburg Conference** (EU GREEN context)
-- Immersion days – Angers (preparation & logistics)
-- Fontaine for Max (event / coordination)
-- Participation in the SDG sessions
+- **Magdeburg Conference** (EU GREEN context) *(from EU GREEN card)*
+- Planning language immersion activities
 
 **Programme Development**
 
-- Planning language immersion activities
-- Move / redesign session formats and delivery models
-- Redesigns of delivery formats
-- Masterclasses BG-42 (continuation)
-- Preparation of Train the Trainers materials
+- Redesigns of delivery formats *(from EU GREEN card)*
+- Move / restructure sessions and delivery models
+- Masterclasses continuation – BG-42
 
 **Reporting**
 
-- Interim evaluation report
-- Report preparation: BG-42
+- Interim evaluation report *(from EU GREEN card)*
+- Report BG-42
 
-**JEC / Degrees**
+**Degrees & Coordination**
 
-- Dayton JEC Meeting (follow-up)
-- JOG degree schedule begins
+- Dayton JEC Meeting
 
-**Parking Zone items (flexible / to be assigned):**
+**Parking Zone items placed in June (flexible / to be confirmed):**
 
-- Preparation of trainers (slot TBD)
+- Train the Trainers – preparation
 - BG-47/48 related tasks
-- Additional coordination from May
 
 ---
 
@@ -91,31 +80,30 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 **Events**
 
-- **Immersion Days – Angers** *(key milestone)*
+- **Immersion Days – Angers** *(from EU GREEN card)*
 - Organize / finalize the final session
-- Participation in SDG sessions (continued)
+- Participation in SDG sessions
 
 **Delivery**
 
-- Masterclasses continuation (M-Left tasks)
-- Train the Trainers phase begins
-- Finish Master thesis / student projects
+- Masterclasses continuation
+- Train the Trainers phase begins *(from EU GREEN card)*
+- Finish student thesis / Master project
 
 **Reporting**
 
-- Report M42–48 *(milestone report)*
+- Report M42–48 *(milestone report – from EU GREEN card)*
 - Submission preparation
 
 **Degrees**
 
 - JOG degree schedule (active phase)
-- Joint degrees – first discussions
 
 **Cross-cutting tracks:**
 
 - 🔵 BIP / Microcredentials → *ends July* (resumes September)
 - 🔵 Lobbying → *ends July* (resumes September)
-- 🟠 Preparing the Report → *starts July* (continues September)
+- 🟠 Preparing the Report → *starts July* (from Road Map 26)
 
 ---
 
@@ -123,9 +111,7 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 > *Summer Break – Low Activity Phase*
 
-- **Summer Holidays** 🏖️
-- Improve AI monitoring / tools (background work)
-- Internal consolidation of outputs
+- **Summer Holidays** 🏖️ *(written on whiteboard)*
 - Joining / reintegrating students after summer
 - Student slide preparation / degree framework notes
 - Student relations – bilateral contacts
@@ -137,37 +123,33 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 ## 🔵 SEPTEMBER
 
-> *Restart & Implementation Scaling*
+> *Restart & Implementation*
 
 **Academic Restart**
 
-- Prepare notes / documentation (external-facing)
+- Prepare the news / documentation (external-facing)
 - Prepare IT products / workshop materials
-- Start of academic term activities
 
 **Training & Capacity Building**
 
-- Try to develop new guidelines: Trainer Criteria & Trainer Development
+- Develop new guidelines: Trainer Criteria & Trainer Development
 - AI Mentor / Masterclass guidelines (re-launch)
-- Stops / checkpoints in AI-assisted learning track
-- Programme (PROG) plan finalization – bring deliverables to completion
 
-**Events**
+**Events & Curriculum**
 
-- **Academic Retreat / Workshops**
+- Academic Retreat / Workshops *(from EU GREEN card)*
 - Multicultural & plurilingual events (resumed)
 - SDG content integration in curricula (resumed)
 
 **Reporting**
 
 - Report preparation continues (M42–48 phase)
-- Evaluation report formal preparation begins
 
-**Cross-cutting tracks resumed:**
+**Cross-cutting tracks resumed (from Road Map 26):**
 
 - 🔵 BIP / Microcredentials → *resumes Sep–Nov*
 - 🔵 Lobbying → *resumes Sep–Dec*
-- 🟠 Preparing the Report → *Sep–Oct phase*
+- 🟠 Preparing the Report → *continues Sep–Oct*
 
 ---
 
@@ -175,35 +157,32 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 > *Evaluation, Reporting & Governance*
 
-**Governance & Elections**
+**Governance**
 
 - Preparing for the new Elections – **EU GREEN 2.0**
 - Difficulty / transition planning: New Phase & Multi-Year Period
-- Monthly input: advanced applicant lists for entrepreneurship data
-
-**Degrees & Partnerships**
-
-- **Joint degree development** – Family Study / Coordination
-- Joint degree track: served for non-academic staff
-- Launch PREP for Angers / Angers partner collection
+- UFR Bordeaux – partner update / listing of new connections
 
 **Evaluation & Reporting**
 
-- **Formal Evaluation Report (E.R.)** submission
-- EU GREEN Review processes
+- **Formal Evaluation Report (E.R.)** *(from EU GREEN card)*
+- EU GREEN Review processes *(from EU GREEN card)*
 - Read the report (internal review cycle)
 - Find AI-supported considerations related to specific deadlines
-- Intensified dissemination activities
+
+**Degrees**
+
+- Joint degree development *(from EU GREEN card)*
+- Joint degree track: served for non-academic staff
 
 **Capacity Building**
 
-- Create deliverables + set up **EU GREEN Academy**
-- Set EuGreen Academy structures
+- Create deliverables & set up EU GREEN Academy structures
 
 **Cross-cutting tracks:**
 
-- 🟠 Preparing the Report → *Oct–Nov final phase*
-- 🟡 Sharing the Report → *starts Oct*
+- 🟠 Preparing the Report → *Oct final phase* (from Road Map 26)
+- 🟡 Sharing the Report → *starts Oct* (from Road Map 26)
 
 ---
 
@@ -213,25 +192,21 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 **Reporting & Closure**
 
-- **Final Evaluation Report (E.R.)** – review phase
-- Lessons Learned documentation (April → M5 range)
-- Last report: status update and sustainability assessment
+- **E.R. Review** *(from EU GREEN card)*
+- Lessons Learned documentation
+- Last report: status and sustainability assessment
 - Finalize the report for submission
-
-**External Review**
-
-- E.R. Review (EU GREEN / partners)
-- Prepare for the next family period / funding cycle
+- Prepare for the next funding period
 
 **Celebration**
 
-- 🎉 **CELEBRATE!** *(No more waiting – Academic Meeting milestone)*
+- 🎉 **CELEBRATE!** *(Academic Meeting milestone)*
 
 **Cross-cutting tracks:**
 
 - 🔵 BIP / Microcredentials → *ends November*
 - 🟡 Sharing the Report → *active November*
-- 🏁 **End of the Race!** → *begins November*
+- 🏁 End of the Race! → *begins November* (from Road Map 26)
 
 ---
 
@@ -241,20 +216,13 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 **Final Submission**
 
-- **E.R. Completion and Delivery** *(formal submission)*
-- Final report submission (E.R. + Reflection & Delivery)
-- End of EU GREEN Phase 1 *(Report M42–48 final)*
-
-**Dissemination**
-
+- **E.R. Completion and Delivery** *(from EU GREEN card)*
+- End of EU GREEN Phase 1 *(from EU GREEN card – Report M42–48 final)*
 - Final dissemination outputs
-- Project closure activities
-- Regular DEC coordination meeting (final)
 
 **Closure**
 
-- 🎄 **Winter Break from ~20th December**
-- 🎉 **CELEBRATE** – Project phase complete!
+- 🎄 **Winter Break from ~20th December** *(written on whiteboard)*
 
 **Cross-cutting tracks:**
 
@@ -265,49 +233,45 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 # 🔄 Cross-Cutting Activity Tracks
 
-> From *Road Map 26* (notebook sketch) + programme cards
+> From *Road Map 26* notebook and EU GREEN programme cards
 
 | Track | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |
 |---|---|---|---|---|---|---|---|---|
-| **BIP / Microcredentials** | ▶ | ── | ◀🏖️▶ | 🏖️ | ▶ | ── | ◀ | |
-| **Lobbying** | ▶ | ── | ◀🏖️▶ | 🏖️ | ▶ | ── | ── | ◀ |
-| **Preparing the Report** | | | ▶ | 🏖️ | ── | ── | ◀ | |
+| **BIP / Microcredentials** | ▶ | ── | ◀ | 🏖️ | ▶ | ── | ◀ | |
+| **Lobbying** | ▶ | ── | ◀ | 🏖️ | ▶ | ── | ── | ◀ |
+| **Preparing the Report** | | | ▶ | 🏖️ | ── | ◀ | | |
 | **Sharing the Report** | | | | | | ▶ | ◀ | |
 | **Train the Trainers** | | | ▶ | 🏖️ | ── | ◀ | | |
-| **Masterclasses** | ▶ | ── | ── | 🏖️ | ── | | | |
-| **SDG Mapping / Curricula** | ▶ | ── | ── | 🏖️ | ── | ── | | |
-| **Multicult. & Plurilingua** | ▶ | ── | ── | 🏖️ | ── | | | |
-| **Joint Degrees** | | | ▶ | | ── | ── | ◀ | |
-| **Evaluation & Reporting** | ▶ | ── | ── | | ── | ── | ── | ◀ |
+| **Masterclasses (BG-42)** | ▶ | ── | ◀ | | | | | |
+| **SDG Mapping / Curricula** | ▶ | ── | ── | 🏖️ | ── | | | |
+| **Multicult. & Plurilingual** | ▶ | ── | ── | 🏖️ | ── | | | |
+| **Joint Degrees** | | | ▶ | | ── | ◀ | | |
+| **Evaluation & Reporting (E.R.)** | | ▶ | ── | | ── | ── | ── | ◀ |
 | **🏁 End of the Race!** | | | | | | | ▶ | ◀ |
 
-*🏖️ = Summer holidays interruption · ▶ = starts · ◀ = ends · ── = ongoing*
+*🏖️ = Summer holidays · ▶ = starts · ◀ = ends · ── = ongoing*
 
 ---
 
 # 🅿️ Parking Zone
 
-> *Unassigned or flexibly-scheduled tasks – to be allocated when possible*
+> *From whiteboard – unassigned or flexibly-scheduled tasks*
 
-- Regular DEC meeting (ongoing coordination)
-- Long-term planning notes (carry-over)
-- Additional coordination tasks (TBD)
-- Pending deliverables without fixed timeline
-- BG-47/48 related preparation tasks
-- Announcement of EU GREEN Digital Studio choice
-- Fontaine / external stakeholder contacts
+- Dayton JEC Meeting (to be scheduled)
+- Train the Trainers – preparation slot TBD
+- BG-47/48 related tasks
+- EU GREEN Digital Studio – announcement of choice
+- Regular DEC coordination meeting
 
 ---
 
 # 📊 Project Phase Overview
 
-> This timeline follows a structured project lifecycle:
-
 1. **Initiation & Administrative Setup** → *May*
 2. **Mobilization & Dissemination** → *June*
 3. **Production & Delivery* → *July*
 4. **Buffer & Reflection** → *August*
-5. **Restart & Implementation Scaling** → *September*
+5. **Restart & Implementation** → *September*
 6. **Evaluation & Governance** → *October*
 7. **Final Evaluation & Lessons Learned** → *November*
 8. **Closure & Submission** → *December*
@@ -316,11 +280,9 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 # ▶️ Reflection Prompt
 
-> At which phase would AI-supported curriculum design tools (e.g., BMAD workflow, AI Academy) provide the highest impact?
+> At which phase would AI-supported curriculum design tools (e.g., BMAD workflow, EU GREEN Academy) provide the highest impact?
 
 - [( )] Planning phase (May–June)
 - [( )] Delivery phase (July)
 - [( )] Evaluation phase (Nov–Dec)
 - [(x)] All phases – integrated throughout
-
-> **Note:** The EU GREEN 2.0 election preparation in October suggests that strategic AI tool positioning ahead of the new phase would be particularly impactful.
