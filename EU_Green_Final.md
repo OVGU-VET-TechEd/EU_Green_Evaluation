@@ -23,7 +23,7 @@ comment:  Integrated EU GREEN project roadmap 2026 — compiled from planning bo
 
 - Rectors meeting
 - CA (Cooperation Agreement) for administrative setup / submission
-- Organize the French session
+- Organize the French Master Class
 - Rectors / Faculty coordination
 - EU GREEN Digital Studio – participate and announcement of the choice
 - Dayton JEC Meeting (initial)
